@@ -1,13 +1,13 @@
 # commit-conventions
 Padrões de Commit
 
-##<b>feat</b>
+##feat
     <p>Indicao o desenvolvimento de uma nova feature ao projeto</p>
     <p>Exemplo: Acréscimo de um serviço, funcionalidade, endpoint, etc
     
 <hr>
 
-##<b>refactor</b>
+##refactor
     <p>Usado quando houver uma refatoração de código que não tenha qualquer tipo de impacto na lógica/regras de negócio do sistema.</p>
     <p>Exemplo: Mudanças de código após um code review</p>
     
