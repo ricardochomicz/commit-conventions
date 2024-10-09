@@ -7,15 +7,15 @@ Padrões de Commit
     
 <hr>
 
-##refactor
-    <p>Usado quando houver uma refatoração de código que não tenha qualquer tipo de impacto na lógica/regras de negócio do sistema.</p>
-    <p>Exemplo: Mudanças de código após um code review</p>
+## refactor
+    Usado quando houver uma refatoração de código que não tenha qualquer tipo de impacto na lógica/regras de negócio do sistema.
+    Exemplo: Mudanças de código após um code review
     
 <hr>
 
-##<b>perf</b>
-  <p>Indica uma alteração que melhorou a performance do sistema.</p>
-  <p>Exemplo: Alterar ForEach por while, melhorar a query ao banco, etc.</p>
+## perf
+  Indica uma alteração que melhorou a performance do sistema.
+  Exemplo: Alterar ForEach por while, melhorar a query ao banco, etc.
   
 <hr>
 
