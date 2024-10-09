@@ -1,7 +1,7 @@
 # commit-conventions
 Padrões de Commit
 
-##feat
+## feat
     <p>Indicao o desenvolvimento de uma nova feature ao projeto</p>
     <p>Exemplo: Acréscimo de um serviço, funcionalidade, endpoint, etc
     
