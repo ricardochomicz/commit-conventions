@@ -2,8 +2,8 @@
 Padrões de Commit
 
 ## feat
-    <p>Indicao o desenvolvimento de uma nova feature ao projeto</p>
-    <p>Exemplo: Acréscimo de um serviço, funcionalidade, endpoint, etc
+    Indicao o desenvolvimento de uma nova feature ao projeto
+    Exemplo: Acréscimo de um serviço, funcionalidade, endpoint, etc
     
 <hr>
 
