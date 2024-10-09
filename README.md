@@ -2,9 +2,9 @@
 Padrões de Commit
 
 
-<b><mark>feat</mark></b>
-<p>Indicao o desenvolvimento de uma nova feature ao projeto</p>
-<p>Exemplo: Acréscimo de um serviço, funcionalidade, endpoint, etc
+- <b>feat</b>
+  --<p>Indicao o desenvolvimento de uma nova feature ao projeto</p>
+  --<p>Exemplo: Acréscimo de um serviço, funcionalidade, endpoint, etc
 
 <b>refactor</b>
 <p>Usado quando houver uma refatoração de código que não tenha qualquer tipo de impacto na lógica/regras de negócio do sistema.</p>
